@@ -1,6 +1,11 @@
 # 🚅 Projet Latitude : Tourisme en train
 Faciliter et encourager le voyage bas carbone en France.
 
+### 📊 Consulter le Dashboard
+Comme GitHub ne permet pas l'affichage interactif des fichiers Power BI, vous pouvez :
+
+1. [📥 Télécharger le fichier .pbix directement ici](https://github.com/boutinmathis1-cell/Projet-tourisme-en-train/raw/main/Tourisme_train_VF.pbix)
+
 🌍 Contexte
 Aujourd'hui, 69 % de l'empreinte carbone du tourisme provient du transport. Pourtant, le train émet en moyenne 10 fois moins de CO2 que la voiture.
 
